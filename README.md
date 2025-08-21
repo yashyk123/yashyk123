@@ -83,10 +83,17 @@ I’m passionate about creating efficient, user-friendly applications and always
 |--------|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashyk123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashyk123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashyk123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashyk123&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashyk123&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashyk123&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashyk123&theme=neon&no-frame=false&no-bg=true&margin-w=4)
